@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "929494456358",
+    "firebase_url": "https://pushshahrain.firebaseio.com",
+    "project_id": "pushshahrain",
+    "storage_bucket": "pushshahrain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929494456358:android:80c21528ba23e1cd",
+        "android_client_info": {
+          "package_name": "com.example.shahreen.shahrain_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929494456358-4qtfcrp43pjaprkjtf9k2ehm1cutfs5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbnfRg5yVhIG7QPkPw_iVPa7ZhXQZSdBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
